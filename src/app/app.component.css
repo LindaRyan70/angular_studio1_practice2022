@@ -1,0 +1,6 @@
+.box {
+    /* Display: flex is what makes the Equipment and Crew lists align horizontally vs vertically. */
+    display: flex;
+    /* flex-direction: row-reverse; */
+    padding: 10px;
+ }
